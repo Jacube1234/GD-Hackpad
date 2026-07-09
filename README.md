@@ -1,4 +1,4 @@
-# Hackpad for GD Platformers
+# GD Hackpad
 
 This is my Hackpad designed for the purpose to play Geometry Dash Platformer levels. Basically a DIY Sayo Device but cool yk. 
 I chose this project as I am comfortable with Fusion 360, and a chance to learn a new program - Kicad.
@@ -22,8 +22,15 @@ I got a skull emoji off google, and placed it on my front silkscreen layer.
 
 Schematic
 
+![Schematic](assets/Schematic.png)
+
+Layout
+
+![Layout of PCB](assets/Layout.png)
 
 PCB
+
+![Kicad's 3d viewer](assets/3d_Viewer.png)
 
 
 ## Firmware Overview
