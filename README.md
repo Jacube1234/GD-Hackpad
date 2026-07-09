@@ -18,7 +18,7 @@ Made in Fusion360.
 ![Fusion 360 Render](assets/Fusion_Render.png)
 
 ## PCB
-Here's my PCB! It was made in KiCad. I added the silkscreen image by using the build in image converter.
+Here's my PCB!💀 It was made in KiCad. I added the silkscreen image by using the build in image converter.
 I got a skull emoji off google, and placed it on my front silkscreen layer.
 
 Schematic
