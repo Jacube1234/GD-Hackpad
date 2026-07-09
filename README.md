@@ -15,6 +15,7 @@ It has 3 separate printed pieces. The base which has a tilt, the plate to hold t
 
 Made in Fusion360.
 
+![Fusion 360 Render](assets/Fusion_Render.png)
 
 ## PCB
 Here's my PCB! It was made in KiCad. I added the silkscreen image by using the build in image converter.
