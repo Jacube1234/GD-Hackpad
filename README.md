@@ -27,7 +27,7 @@ Schematic
 
 Layout
 
-![Layout of PCB](assets/Layout.png)
+![Layout of PCB](assets/Layout.gif)
 
 PCB
 
@@ -46,9 +46,13 @@ Here should be everything you need to make this hackpad
 - 1 Unsoldered Seeed XIAO RP2040
 - 4x MX-Style switches
 - 4x white blank DSA keycaps
--2x SK6812 MINI-E LEDs (Neopixels)
+- 2x SK6812 MINI-E LEDs (Neopixels)
+- 1x EC11E Rotary Encoder
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
+- 3D printed case
+- 3D printed knob
+- PCB
 
 
 ## Extra stuff
