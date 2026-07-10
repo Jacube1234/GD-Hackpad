@@ -660,7 +660,7 @@
         "uuid": "f1eb50f8-45c6-4eef-9d34-8f0700474d94"
       }
     ],
-    "used_designators": "U1,SW1-5,#PWR1-6,D1-2",
+    "used_designators": "U1,SW1-6,#PWR1-6,D1-2",
     "variants": []
   },
   "sheets": [
