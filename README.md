@@ -35,7 +35,7 @@ PCB
 
 
 ## Firmware Overview
-This hackpad uses _____ firmware for everything. 
+This hackpad uses KMK firmware for everything.
 
 
 I might change the lights to change colour in the future.
