@@ -7,6 +7,7 @@ I chose this project as I am comfortable with Fusion 360, and a chance to learn 
 - Cool 3d printed case
 - 2 WS2812B RGB LEDs. Kinda under the keys. I just didn't want it to be too basic. Can also tell me whether its powered on.
 - 4 arrow keys to play games
+- Rotary encoder
 
 ## CAD Model:
 Everything fits together using 4 M3 Bolts and heatset inserts. 4 for the case.
@@ -16,6 +17,10 @@ It has 3 separate printed pieces. The base which has a tilt, the plate to hold t
 Made in Fusion360.
 
 ![Fusion 360 Render](assets/Fusion_Render.png)
+
+I added these elevated holes because the shell was 3mm tall, which is shorter than the depth needed for the heatset inserts. Still looks visually fine I reckon.
+
+![Fusion_Drawing](assets/Fusion_Drawing.png)
 
 ## PCB
 Here's my PCB!💀 It was made in KiCad. I added the silkscreen image by using the build in image converter.
