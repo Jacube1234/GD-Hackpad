@@ -27,11 +27,11 @@ Schematic
 
 Layout
 
-![Layout of PCB](assets/Layout.gif)
+![Layout of PCB](assets/Layout.png)
 
 PCB
 
-![Kicad's 3d viewer](assets/3d_Viewer.png)
+![Kicad's 3d viewer](assets/3d_Viewer.gif)
 
 
 ## Firmware Overview
