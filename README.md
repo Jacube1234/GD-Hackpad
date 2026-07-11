@@ -36,8 +36,7 @@ Layout
 
 PCB
 
-<video src="assets/3D_Viewer.mp4" controls="controls" muted="muted" width="600">
-</video>
+![3D Viewer](assets/3D_Viewer.gif)
 
 
 
