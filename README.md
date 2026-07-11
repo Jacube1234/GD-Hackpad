@@ -36,7 +36,8 @@ Layout
 
 PCB
 
-https://github.com/user-attachments/assets/8274278a-bdc1-43a3-93dd-88c1ad32d65b
+<video src="assets/3D_Viewer.mp4" controls="controls" muted="muted" width="600">
+</video>
 
 
 
