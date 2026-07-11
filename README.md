@@ -6,7 +6,7 @@ I chose this project as I am comfortable with Fusion 360, and a chance to learn 
 ## Features:
 - Cool 3d printed case
 - 2 WS2812B RGB LEDs. Kinda under the keys. I just didn't want it to be too basic. Can also tell me whether its powered on.
-- 4 Keys to play games
+- 4 arrow keys to play games
 
 ## CAD Model:
 Everything fits together using 4 M3 Bolts and heatset inserts. 4 for the case.
@@ -57,6 +57,13 @@ Here should be everything you need to make this hackpad
 - 3D printed case
 - 3D printed knob
 - PCB
+
+## Tools:
+
+- 3D Printer
+- Soldering Iron
+- Solder
+- M3 Allen key
 
 
 ## Extra stuff
