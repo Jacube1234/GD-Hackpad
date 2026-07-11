@@ -491,7 +491,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/LED_SK6812MINI-E.step"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/LED_SK6812MINI-E.step"
 			(offset
 				(xyz 0 5.15 0.15)
 			)
@@ -794,7 +794,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/MX.STEP"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/mx.step"
 			(offset
 				(xyz 4.8 2.25 6)
 			)
@@ -1097,7 +1097,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/MX.STEP"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/MX.STEP"
 			(offset
 				(xyz 4.8 2.25 6)
 			)
@@ -1540,7 +1540,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/MX.STEP"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/mx.step"
 			(offset
 				(xyz 4.8 2.25 6)
 			)
@@ -1975,7 +1975,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/EC11_Rotary_Encoder_Switched.step"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/EC11_Rotary_Encoder_Switched.step"
 			(offset
 				(xyz 7.5 -2.5 0)
 			)
@@ -2278,7 +2278,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/MX.STEP"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/MX.STEP"
 			(offset
 				(xyz 4.8 2.25 6)
 			)
@@ -2694,7 +2694,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/LED_SK6812MINI-E.step"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/LED_SK6812MINI-E.step"
 			(offset
 				(xyz 0 5.15 0.15)
 			)
@@ -5769,7 +5769,7 @@
 			(uuid "864c0de8-2b18-49a0-a21f-d3cbcb963368")
 		)
 		(embedded_fonts no)
-		(model "C:/Programming/Hackpad/GD-Hackpad/CAD/Seeed Studio XIAO RP2040 v26.step"
+		(model "C:/Programming/Hackpad/GD-Hackpad/assets/Components/Seeed Studio XIAO RP2040 v26.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6493,6 +6493,54 @@
 		(uuid "d6fb67d1-cec8-4efd-8094-3ccd669e7b32")
 	)
 	(segment
+		(start 131.11 102.78)
+		(end 131.23 102.9)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA5_A9_D9_MISO)")
+		(uuid "27ebb5b7-215e-4e9d-b4d9-7f97eb79dfc5")
+	)
+	(segment
+		(start 131.11 95.47)
+		(end 131.11 102.78)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA5_A9_D9_MISO)")
+		(uuid "2c8aa37d-0211-4a58-8084-62de9262e79a")
+	)
+	(segment
+		(start 164.26 99.636598)
+		(end 164.26 83.16)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA5_A9_D9_MISO)")
+		(uuid "42d349ab-eee4-4a57-8e00-d8de792933a0")
+	)
+	(segment
+		(start 164.26 83.16)
+		(end 161.55 80.45)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA5_A9_D9_MISO)")
+		(uuid "84e92a9e-2533-4602-98ea-7a54305bc976")
+	)
+	(segment
+		(start 131.23 102.9)
+		(end 160.996598 102.9)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA5_A9_D9_MISO)")
+		(uuid "84f20456-c4fc-47a7-a5f3-b488f5d6ff0e")
+	)
+	(segment
+		(start 160.996598 102.9)
+		(end 164.26 99.636598)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA5_A9_D9_MISO)")
+		(uuid "e4b449dd-7ba3-4bac-ba13-933c8a1aadd3")
+	)
+	(segment
 		(start 162.65 84.44)
 		(end 162.65 88.301471)
 		(width 0.2)
@@ -6547,54 +6595,6 @@
 		(layer "F.Cu")
 		(net "unconnected-(U1-PB08_A6_D6_TX-Pad7)")
 		(uuid "75e591f4-e996-47a5-b6d8-1c4b4874b0bb")
-	)
-	(segment
-		(start 131.11 102.78)
-		(end 131.23 102.9)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-PA5_A9_D9_MISO)")
-		(uuid "27ebb5b7-215e-4e9d-b4d9-7f97eb79dfc5")
-	)
-	(segment
-		(start 131.11 95.47)
-		(end 131.11 102.78)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-PA5_A9_D9_MISO)")
-		(uuid "2c8aa37d-0211-4a58-8084-62de9262e79a")
-	)
-	(segment
-		(start 164.26 99.636598)
-		(end 164.26 83.16)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-PA5_A9_D9_MISO)")
-		(uuid "42d349ab-eee4-4a57-8e00-d8de792933a0")
-	)
-	(segment
-		(start 164.26 83.16)
-		(end 161.55 80.45)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-PA5_A9_D9_MISO)")
-		(uuid "84e92a9e-2533-4602-98ea-7a54305bc976")
-	)
-	(segment
-		(start 131.23 102.9)
-		(end 160.996598 102.9)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-PA5_A9_D9_MISO)")
-		(uuid "84f20456-c4fc-47a7-a5f3-b488f5d6ff0e")
-	)
-	(segment
-		(start 160.996598 102.9)
-		(end 164.26 99.636598)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-PA5_A9_D9_MISO)")
-		(uuid "e4b449dd-7ba3-4bac-ba13-933c8a1aadd3")
 	)
 	(segment
 		(start 161.55 75.37)
