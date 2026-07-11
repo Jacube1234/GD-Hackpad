@@ -31,7 +31,7 @@ Layout
 
 PCB
 
-![Kicad's 3d viewer](assets/3d_Viewer.gif)
+![Kicad's 3d viewer](assets/3D_Viewer.mp4)
 
 
 ## Firmware Overview
@@ -39,6 +39,10 @@ This hackpad uses KMK firmware for everything.
 
 
 I might change the lights to change colour in the future.
+
+## File structure
+
+There's 4 main folders: CAD, Firmware, PCB, and Production. The CAD folder contains the .step file for the case. The PCB folder contains .kicad_pcb, .kicad_pro, and .kicad_sch. The Firmware folder contains files for KMK firmware. The production folder has files for 3D printing and for the PCB printing.
 
 ## BOM:
 Here should be everything you need to make this hackpad
