@@ -36,7 +36,8 @@ Layout
 
 PCB
 
-![Kicad's 3d viewer](assets/3D_Viewer.mp4)
+https://github.com/user-attachments/assets/8274278a-bdc1-43a3-93dd-88c1ad32d65b
+
 
 
 ## Firmware Overview
