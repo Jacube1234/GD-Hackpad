@@ -48,7 +48,7 @@ I might change the lights to change colour in the future.
 
 ## File structure
 
-There's 4 main folders: CAD, Firmware, PCB, and Production. The CAD folder contains the .step file for the case. The PCB folder contains .kicad_pcb, .kicad_pro, and .kicad_sch. The Firmware folder contains files for KMK firmware. The production folder has files for 3D printing and for the PCB printing.
+There's 4 main folders: CAD, Firmware, PCB, and Production. The CAD folder contains the .step file for the case as a whole. It also contains the 3mf of the same thing, and the fusion f3z. The PCB folder contains .kicad_pcb, .kicad_pro, and .kicad_sch. The Firmware folder contains files for KMK firmware. The production folder has files for 3D printing and for the PCB printing.
 
 ## BOM:
 Here should be everything you need to make this hackpad
