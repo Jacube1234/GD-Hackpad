@@ -71,9 +71,8 @@ Here should be everything you need to make this hackpad
 
 - KMK folder from [here](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md) and have a quick read through. Download where it says "copy of KMK" or [here](https://github.com/KMKfw/kmk_firmware/archive/refs/heads/main.zip)
 - UF2 Circuit python [for the Seeed XIAO RP2040](https://circuitpython.org/board/seeeduino_xiao_rp2040/)
-- Fusion is recommended if you want to look through my building timeline in GD-Hackpad/CAD/Final
-/Hackpad.f3z
-- Kicad recommended to view the Gerber files or the general .pcb .pro .sch files
+- Fusion is recommended if you want to look through my building timeline [here](https://github.com/Jacube1234/GD-Hackpad/blob/main/CAD/Final/Hackpad.f3z)
+- Kicad recommended to view the Gerber files or the general `.pcb` `.pro` `.sch` files
 ## Tools:
 
 - 3D Printer
