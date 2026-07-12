@@ -1,5 +1,7 @@
 # GD Hackpad
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/Jacube1234/GD-Hackpad/tree/main/PCB)
+
 This is my Hackpad designed for the purpose to play Geometry Dash Platformer levels. Basically a DIY Sayo Device but cool yk. 
 I chose this project as I am comfortable with Fusion 360, and a chance to learn a new program - Kicad.
 
@@ -20,6 +22,7 @@ Made in Fusion360.
 
 I added these elevated holes because the shell was 3mm tall, which is shorter than the depth needed for the heatset inserts. Still looks visually fine I reckon.
 
+This also shows how it is assembled. The top plate and angled base sandwhich the plate the holds the switches.
 ![Fusion_Drawing](assets/Fusion_Drawing.png)
 
 ## PCB
