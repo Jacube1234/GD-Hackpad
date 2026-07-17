@@ -10,9 +10,10 @@ View PCB on KiCanvas
 </a>
 <br>
 View video demo on YouTube
-
 <br>
-
+<br>
+---
+<br>
 This is my Hackpad designed for the purpose to play Geometry Dash Platformer levels. Basically a DIY Sayo Device but cool yk. 
 I chose this project as I am comfortable with Fusion 360, and a chance to learn a new program - Kicad.
 
