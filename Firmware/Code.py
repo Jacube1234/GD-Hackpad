@@ -8,9 +8,9 @@ from kmk.keys import KC
 from kmk.scanners import DiodeOrientation
 
 keyboard = KMKKeyboard()
-keyboard.pins = (board.GP8,board.GP9,board.GP10,board.GP11)
+keyboard.pins = (board.D7,board.D8,board.D9,board.D10)
 
-rgb = RGB(pixel_pin=board.GP1, num_pixels=2)
+rgb = RGB(pixel_pin=board.D0, num_pixels=2)
 keyboard.extensions.append(rgb)
 
 keyboard.keymap = [
