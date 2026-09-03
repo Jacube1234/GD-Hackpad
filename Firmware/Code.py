@@ -20,7 +20,7 @@ keyboard.matrix = KeysScanner(
 
 # 3. Simple keymap matching the 5 physical button contacts sequentially
 keyboard.keymap = [
-    [KC.W, KC.S, KC.A, KC.D, KC.MUTE]
+    [KC.UP, KC.DOWN, KC.LEFT, KC.RIGHT, KC.MUTE]
 ]
 
 if __name__ == '__main__':
