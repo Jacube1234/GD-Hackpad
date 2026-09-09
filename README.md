@@ -13,6 +13,18 @@ View video demo on YouTube
 <br>
 <br>
 <br>
+<p align="center">
+  <!-- Tall Photos Row -->
+  <img src="assets/Photo_1.jpg" width="35%" alt="Hackpad Top Angle" />
+  <img src="assets/Photo_4.jpg" width="35%" alt="Hackpad Base and USB Cable" />
+</p>
+<p align="center">
+  <!-- Wide Photos Row -->
+  <img src="assets/Photo_2.jpg" width="35%" alt="Hackpad Side Profile" />
+  <img src="assets/Photo_3.jpg" width="35%" alt="Hackpad in Use" />
+</p>
+<br>
+
 This is my Hackpad designed for the purpose to play Geometry Dash Platformer levels. Basically a DIY Sayo Device but cool yk. 
 I chose this project as I am comfortable with Fusion 360, and a chance to learn a new program - Kicad.
 
