@@ -1,6 +1,5 @@
 .history/
 .kmk/
-*.uf2
 *.lck
 *.tmp
 *.pro.user
