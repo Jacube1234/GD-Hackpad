@@ -1,6 +1,6 @@
 # GD Hackpad
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/Jacube1234/GD-Hackpad/tree/main/PCB)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/Jacube1234/GD-Hackpad/tree/main/PCB/GD-Hackpad%20working%20LED)
 <br>
 View PCB on KiCanvas
 
