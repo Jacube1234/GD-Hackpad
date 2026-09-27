@@ -737,7 +737,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "LED:SK6812MINI-E"
+		(symbol "LED:NeoPixel_THT"
 			(pin_names
 				(offset 0.254)
 			)
@@ -757,7 +757,7 @@
 					(justify right bottom)
 				)
 			)
-			(property "Value" "SK6812MINI-E"
+			(property "Value" "NeoPixel_THT"
 				(at 1.27 -5.715 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -768,7 +768,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+			(property "Footprint" ""
 				(at 1.27 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -780,7 +780,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
+			(property "Datasheet" "https://www.adafruit.com/product/1938"
 				(at 2.54 -9.525 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -792,7 +792,7 @@
 					(justify left top)
 				)
 			)
-			(property "Description" "RGB LED with integrated controller"
+			(property "Description" "RGB LED with integrated controller, 5mm/8mm LED package"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -814,7 +814,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*"
+			(property "ki_fp_filters" "LED*D5.0mm* LED*D8.0mm*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -825,7 +825,7 @@
 					)
 				)
 			)
-			(symbol "SK6812MINI-E_0_0"
+			(symbol "NeoPixel_THT_0_0"
 				(text "RGB"
 					(at 2.286 -4.191 0)
 					(effects
@@ -835,7 +835,7 @@
 					)
 				)
 			)
-			(symbol "SK6812MINI-E_0_1"
+			(symbol "NeoPixel_THT_0_1"
 				(polyline
 					(pts
 						(xy 1.27 -2.54) (xy 1.778 -2.54)
@@ -932,11 +932,11 @@
 					)
 				)
 			)
-			(symbol "SK6812MINI-E_1_1"
-				(pin power_in line
-					(at 0 -7.62 90)
+			(symbol "NeoPixel_THT_1_1"
+				(pin output line
+					(at 7.62 0 180)
 					(length 2.54)
-					(name "VSS"
+					(name "DOUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -951,10 +951,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -7.62 0 0)
+				(pin power_in line
+					(at 0 -7.62 90)
 					(length 2.54)
-					(name "DIN"
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -987,10 +987,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 7.62 0 180)
+				(pin input line
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "DOUT"
+					(name "DIN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2425,7 +2425,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "LED:NeoPixel_THT")
 		(at 69.85 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -2456,7 +2456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Care Package:SK6812MINI-E_fixed"
 			(at 71.12 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2468,7 +2468,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
+		(property "Datasheet" "https://www.adafruit.com/product/1938"
 			(at 72.39 100.965 0)
 			(hide yes)
 			(show_name no)
@@ -2480,7 +2480,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "RGB LED with integrated controller"
+		(property "Description" "RGB LED with integrated controller, 5mm/8mm LED package"
 			(at 69.85 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2749,7 +2749,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "LED:NeoPixel_THT")
 		(at 43.18 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -2761,7 +2761,7 @@
 		(fields_autoplaced yes)
 		(uuid "9c4b064b-2c13-40a0-9870-499dd299c601")
 		(property "Reference" "D1"
-			(at 30.48 85.0198 0)
+			(at 55.88 85.0198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2771,7 +2771,7 @@
 			)
 		)
 		(property "Value" "NeoPixel_THT"
-			(at 30.48 87.5598 0)
+			(at 55.88 87.5598 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2780,7 +2780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Care Package:SK6812MINI-E_fixed"
 			(at 44.45 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2792,7 +2792,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
+		(property "Datasheet" "https://www.adafruit.com/product/1938"
 			(at 45.72 100.965 0)
 			(hide yes)
 			(show_name no)
@@ -2804,7 +2804,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "RGB LED with integrated controller"
+		(property "Description" "RGB LED with integrated controller, 5mm/8mm LED package"
 			(at 43.18 91.44 0)
 			(hide yes)
 			(show_name no)
