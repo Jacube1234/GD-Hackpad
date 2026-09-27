@@ -140,7 +140,12 @@ Note that I will be getting most parts from Alex's Hackpad kit, and and the pcb 
 
 Hopefully it should work flawlessly because I have 100% tested the code.
 
-
+## Project Reflection
+Some stuff already mentioned elsewhere in this `README.md`
+- **What I made:** I made the GD Hackpad—a custom 4-key macro pad with a rotary encoder designed specifically for playing Geometry Dash Platformer levels (basically a DIY Sayo Device). It features a 3-piece 3D-printed angled case designed in Fusion 360, a custom PCB featuring a skull silkscreen created in KiCad, and is powered by a Seeed XIAO RP2040 running KMK firmware.
+- **What was challenging:** Learning KiCad from scratch since I was originally much more comfortable with Fusion 360. Learning the stardance process and this general hackclub stuff.
+- **What I am proud of:** How well the 3D-printed case fits together using M3 bolts and heat-set inserts, adding a custom skull emoji silkscreen to the PCB, and getting everything running smoothly with 100% tested code.
+- **How to test:** Everything you need to replicate it is in the repository, including the 3D print production files, Gerber files for ordering the PCB, the BOM, and a full guide on setting up CircuitPython and KMK firmware. Note: The photos of my physical build ldon’t have the RGB LEDs due to an early board error, but the updated KiCad and Gerber files in the repo feature the corrected LED routing!
 
 ## Extra stuff
 Hi guys
