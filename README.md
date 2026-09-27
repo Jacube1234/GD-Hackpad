@@ -4,15 +4,22 @@
 <br>
 View PCB on KiCanvas
 
-
-<a href="https://youtu.be/eFOGvQzMtF8">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaQhjbTkEk_11nHyIiwJ0Gwq1cWbHfuL8mGZ0rCmdVw&s" width="90" alt="Youtube Demo">
+<a href="https://youtu.be/FZbB-Cm0QQ0">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaQhjbTkEk_11nHyIiwJ0Gwq1cWbHfuL8mGZ0rCmdVw&s" width="90" alt="Video Demo">
 </a>
 <br>
-View video demo on YouTube
+talking about design
+<br>
+<br>
+<a href="https://youtu.be/eFOGvQzMtF8">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaQhjbTkEk_11nHyIiwJ0Gwq1cWbHfuL8mGZ0rCmdVw&s" width="90" alt="Talking About Design">
+</a>
+<br>
+video demo
 <br>
 <br>
 <br>
+
 <p align="center">
   <!-- Tall Photos Row -->
   <img src="assets/Photo_1.jpg" width="35%" alt="Hackpad Top Angle" />
@@ -24,6 +31,8 @@ View video demo on YouTube
   <img src="assets/Photo_3.jpg" width="35%" alt="Hackpad in Use" />
 </p>
 <br>
+
+**Note on images and files:** The photos and physical build shown below do not have the RGB LEDs or don't have them working due to a footprint error on my design. However, the **updated KiCad and Gerber files in this repository include the corrected LED routing**, so if you fabricate a board using the current files, the LEDs will work fully as designed!
 
 This is my Hackpad designed for the purpose to play Geometry Dash Platformer levels. Basically a DIY Sayo Device but cool yk. 
 I chose this project as I am comfortable with Fusion 360, and a chance to learn a new program - Kicad.
