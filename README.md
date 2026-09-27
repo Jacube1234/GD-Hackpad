@@ -4,14 +4,14 @@
 <br>
 View PCB on KiCanvas
 
-<a href="https://youtu.be/FZbB-Cm0QQ0">
+<a href="https://youtu.be/eFOGvQzMtF8">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaQhjbTkEk_11nHyIiwJ0Gwq1cWbHfuL8mGZ0rCmdVw&s" width="90" alt="Video Demo">
 </a>
 <br>
 talking about design
 <br>
 <br>
-<a href="https://youtu.be/eFOGvQzMtF8">
+<a href="https://youtu.be/FZbB-Cm0QQ0">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaQhjbTkEk_11nHyIiwJ0Gwq1cWbHfuL8mGZ0rCmdVw&s" width="90" alt="Talking About Design">
 </a>
 <br>
